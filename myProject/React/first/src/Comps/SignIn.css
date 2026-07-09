@@ -1,0 +1,31 @@
+.SignIn{
+    background-color: #b00e0e;
+    height:300px;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 350px;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.username{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.password{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.button{
+    color: rgb(26, 27, 28);
+    text-align: center;
+    height: 25px;
+    width: 80px;
+    border-radius: 10px;
+    border: 2px solid rgb(29, 77, 196);
+    background-color: aquamarine;
+}
