@@ -1,0 +1,82 @@
+.header{
+    border: 2px solid rgb(39, 9, 67);
+    background-color:rgb(39, 9, 67) ;
+    border-radius: 100px;
+    height: 40px;
+    display: flex;
+    margin-top: 10px;
+
+    
+}
+.h3{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: cornsilk;
+}
+.logo{
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    border-radius: 100px; 
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.box{
+    display: flex;
+    border: 2px solid rgb(39, 9, 67);
+    height: 200px;
+    width: 900px;
+    margin-top: 70px;
+    background-color:rgb(39, 9, 67) ;
+
+}
+.gameimg{
+    height: 170px;
+    width:300px ;
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.databox{
+    margin-left: 60px;
+    border: 2px solid gray;
+    height: 170px;
+    width: 500px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 15px;
+    background-color:aliceblue;
+    
+}
+.page{
+    background-color: blueviolet;
+        padding-top: 10px;
+        height: 1000px;
+}
+
+.btn{
+    margin-top: 30px;
+    width: 180px;
+    height: 50px;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(37, 117, 252, 0.4);
+    margin-left: 400px;
+}
+
+.btn:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(37, 117, 252, 0.6);
+}
+
+.btn:active{
+    transform: scale(0.96);
+}
